@@ -7,3 +7,6 @@
 [submodule "Beach-Cleaner-TAG-Firmware"]
 	path = Beach-Cleaner-TAG-Firmware
 	url = https://github.com/kolai5006/Beach-Cleaner-TAG-Firmware.git
+[submodule "Beach-Cleaner-Anchor-Firmware"]
+	path = Beach-Cleaner-Anchor-Firmware
+	url = https://github.com/kolai5006/Beach-Cleaner-Anchor-Firmware.git

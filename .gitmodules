@@ -1,3 +1,6 @@
 [submodule "Beach-Cleaner-STM32-Firmware"]
 	path = Beach-Cleaner-STM32-Firmware
 	url = https://github.com/kolai5006/Beach-Cleaner-STM32-Firmware.git
+[submodule "Beach-Cleaner-UWB1000-Firmware"]
+	path = Beach-Cleaner-UWB1000-Firmware
+	url = https://github.com/kolai5006/Beach-Cleaner-UWB1000-Firmware.git
